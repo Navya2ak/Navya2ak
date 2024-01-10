@@ -16,7 +16,7 @@
        </p>
      <p align="center">
           <a href="https://github.com/Navya2ak">
-          <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,html,css,react,figma)" /></a>
+          <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,html,css,react,figma," /></a>
         </p>
      <br>
   </div>
