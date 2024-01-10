@@ -17,4 +17,5 @@
           </a>
        </p>
      <br>
+    [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,html,css,react)](https://github.com/Navya2ak)
   </div>
