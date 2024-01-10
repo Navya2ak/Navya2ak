@@ -16,6 +16,9 @@
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Navya2ak&show_icons=true&theme=gruvbox&hide_border=true" />
           </a>
        </p>
+     <p align="center">
+          <a href="https://github.com/Navya2ak">
+          <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,html,css,react)" /></a>
+        </p>
      <br>
-    [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,express,nestjs,mongodb,html,css,react)](https://github.com/Navya2ak)
   </div>
