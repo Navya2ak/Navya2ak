@@ -6,7 +6,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/Navya2ak">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navya2ak&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="Navya2ak :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navya2ak&langs_count=6&theme=gruvbox&layout=compact&hide_border=true%22%20alt=%22navyaak%20::%20Top%20Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/Navya2ak">
