@@ -6,13 +6,13 @@
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/Navya2ak">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navya2ak&langs_count=6&theme=gruvbox&layout=compact&hide_border=true%22%20alt=%22navyaak%20::%20Top%20Langs" alt="Navya2ak :: Top Langs" /></a>
+          <a href="https://github.com//Navya2ak">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navya2ak&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="navya :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/Navya2ak">
+          <a href="https://github.com//Navya2ak">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Navya2ak&show_icons=true&theme=gruvbox&hide_border=true" />
-          </a>
+                </a>
        </p>
      <p align="center">
           <a href="https://github.com/Navya2ak">
